@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Personal Introduction"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 📧 **Email:** [jinzhb3@mail.sysu.edu.cn](mailto:jinzhb3@mail.sysu.edu.cn)  
 🌐 **Website:** [https://zbkim.github.io/jinzhengbei.github.io/](https://zbkim.github.io/jinzhengbei.github.io/)  
 🏠 **Address:** Guangming District, Shenzhen City, Guangdong Province, China  
@@ -5,7 +14,6 @@
 
 ---
 
-## Personal Introduction
 
 I am affiliated with the School of Medicine at the Sun Yat-sen University, Shenzhen Campus. My research focuses on medical artificial intelligence and computer vision, with a specialized emphasis on medical image segmentation. Our work aims to develop novel and robust intelligent computational models for the accurate segmentation and analysis of multi-modal medical images (such as CT and MRI), providing essential AI tools and methodological support for early disease screening, precise diagnosis, and treatment planning. Through cutting-edge interdisciplinary research integrating computer science and medicine, we hope to contribute to the advancement of smart healthcare.
 
