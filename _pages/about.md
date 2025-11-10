@@ -12,5 +12,4 @@ I am affiliated with the School of Medicine at the Sun Yat-sen University, Shenz
 
 [Email](jinzhb3@mail.sysu.edu.cn) / [Github](https://github.com/ZBKim).
 
-
-hub.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If you have any questions, please feel free to contact me.
