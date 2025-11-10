@@ -1,34 +1,17 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhengbei Jin",
+    "email": "jinzhb3@mail.sysu.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://zbkim.github.io/jinzhengbei.github.io/",
+    "summary": "Currently employed at the Medical College of Shenzhen Campus of Sun Yat-sen University",
     "location": {
-      "address": "",
+      "address": "Guangming District, Shenzhen City, Guangdong Province, China",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shenzhen",
+      "countryCode": "China",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
   },
   "work": [],
   "education": [
