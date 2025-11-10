@@ -41,35 +41,9 @@ I am affiliated with the School of Medicine at the Sun Yat-sen University, Shenz
 
 ## 💼 Work Experience
 
-*(No work experience listed)*
+*2025-Now: School of Medicine, Shenzhen Campus of Sun Yat-sen University*
+
 
 ---
-
-## 🧠 Skills
-
-*(To be added)*
-
----
-
-## 🌍 Languages
-
-*(To be added)*
-
----
-
-## 💡 Interests
-
-*(To be added)*
-
----
-
-## 📁 Portfolio
-
-### Portfolio Item 1  
-🗂 **Category:** Portfolio  
-📝 Short description of portfolio item number 1  
-![Portfolio Image](/images/500x300.png)
-
-
 
 If you have any questions, please feel free to contact me.
