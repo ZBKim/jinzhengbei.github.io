@@ -22,7 +22,7 @@ I am affiliated with the School of Medicine at the Sun Yat-sen University, Shenz
 
 ## 🎓 Education
 
-### Sun Yat-sen University  
+### National University of Malaysia  
 **Master's Degree in Computer Science**  
 📅 *2023 – 2025*
 
