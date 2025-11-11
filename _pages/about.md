@@ -10,7 +10,7 @@ redirect_from:
 📧 **Email:** [jinzhb3@mail.sysu.edu.cn](mailto:jinzhb3@mail.sysu.edu.cn)  
 🌐 **Website:** [https://zbkim.github.io/jinzhengbei.github.io/](https://zbkim.github.io/jinzhengbei.github.io/)  
 🏠 **Address:** Guangming District, Shenzhen City, Guangdong Province, China  
-🏢 **Affiliation:** Currently employed at the Medical College of Shenzhen Campus of Sun Yat-sen University  
+🏢 **Affiliation:**Medical College of Shenzhen Campus of Sun Yat-sen University  
 
 ---
 
